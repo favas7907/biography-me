@@ -1,8 +1,7 @@
-# Favas M. - Personal Biography Page
+# Favas M - Personal Biography Page
 
 A premium, editorial-inspired personal biography page built using modern **HTML and CSS**. 
 
-![Bio Page Preview](https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=1200&h=400)
 
 ## 🧑‍💻 About
 
@@ -24,12 +23,7 @@ The UI features a clean, high-end "Editorial Aesthetic" with a crisp white theme
 2. **About Me**: A detailed breakdown of interests, including AI, Blockchain, Cybersecurity, and Data Engineering.
 3. **Experience & Education**: A structured tracking of educational pursuits and technical exposure.
 4. **Selected Projects**: A visual showcase of key technical projects:
-    - **EcoGrove**: Smart Waste Management Platform (IoT & AI)
-    - **Food Delivery System**: Operating System concept simulation
-    - **Netflix Clone**: Responsive UI built with HTML/CSS
-    - **Library System**: MongoDB & Python backend
-    - **DSA Projects**: C-based data structures implementations.
-
+    
 ## 🎨 Design Philosophy
 
 The design takes inspiration from premium design systems and editorial layouts, emphasizing:
